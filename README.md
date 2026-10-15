@@ -2,7 +2,7 @@
 Maastricht University - Maastricht Science Programme
 Course: MAT2007 - Introduction to Programming
 Name: Asya Özzeybek
-l
+
 
 ## Project Description
 This project compares metabolic flux distributions across eight microbial organisms for glycolysis, the TCA cycle, and the phosphate pathway (PPP) using descriptive statistics and boxplots. Python is used to clean the data, assign the KEGG reaction IDs to pathways, calculate descriptive statistics and visualize the data using boxplots.
