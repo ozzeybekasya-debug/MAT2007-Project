@@ -23,6 +23,9 @@ python -m pip install pandas numpy matplotlib seaborn openpyxl
 - openpyxl: to read the excel file
 
 ## Execution:
+```bash
+python MAT2007Project.py
+```
 To organize code execution the program is separated into functions that are called following user input. The user presses Enter to initiate each step and display its results.
 
 ## Conditions
